@@ -1,0 +1,8 @@
+.sidebar__compose {
+  margin: 10px 0 15px 10px !important;
+  text-transform: capitalize !important;
+  color: grey;
+  padding: 15px !important;
+  border-radius: 30px !important;
+  box-shadow: 0 2px 5px -2px rgba(0, 0, 0, 0.75);
+}
