@@ -20,6 +20,7 @@
 }
 .sidebarOption .MuiSvgIcon-root {
   padding: 5px;
+  padding-left: 20px;
 }
 .sidebarOption:hover,
 .sidebarOption:hover p,

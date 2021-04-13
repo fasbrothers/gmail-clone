@@ -1,6 +1,6 @@
 .emailList {
   flex: 1;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
 .emailList__settings {
   display: flex;
@@ -11,4 +11,12 @@
   background-color: white;
   z-index: 999;
   padding-right: 10px;
+}
+.emailList__sections {
+  position: sticky;
+  top: 0;
+  display: flex;
+  border-bottom: 1px solid whitesmoke;
+  border-color: white;
+  z-index: 999;
 }
