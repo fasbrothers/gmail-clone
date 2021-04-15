@@ -45,4 +45,4 @@ npm start
 
 ### The gmail clone web application on Firebase
 
-[Glitch link](https://clone-80291.web.app/)
+[Firebase link](https://clone-80291.web.app/)
